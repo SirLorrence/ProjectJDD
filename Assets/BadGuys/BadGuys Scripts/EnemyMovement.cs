@@ -9,6 +9,7 @@ public class EnemyMovement : MonoBehaviour
     //EnemyHealth enemyHealth;        // Reference to this enemy's health.
     NavMeshAgent nav;               // Reference to the nav mesh agent.
 
+    public float speed = 5f;
     void Awake()
     {
         // Set up the references.
