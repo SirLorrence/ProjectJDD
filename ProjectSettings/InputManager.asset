@@ -295,7 +295,7 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: RHorizontalPS
-    descriptiveName: Playstation Controller
+    descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
     positiveButton: 
@@ -311,7 +311,7 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: RVerticalPS
-    descriptiveName: Playstation Controller
+    descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
     positiveButton: 
