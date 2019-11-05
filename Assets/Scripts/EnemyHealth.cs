@@ -10,12 +10,10 @@ public class EnemyHealth : MonoBehaviour
 
 
     Animator anim;                              // Reference to the animator.
-  //  ParticleSystem hitParticles;                // Reference to the particle system that plays when the enemy is damaged.
     CapsuleCollider capsuleCollider;            // Reference to the capsule collider.
     bool isDead;                                // Whether the enemy is dead.
     EnemyMovement enemyMovement;
     EnemyAttack enemyAttack;
-   ParticleSystem hitParticles;                // Reference to the particle system that plays when the enemy is damaged.
 
 
     void Awake()
@@ -25,8 +23,6 @@ public class EnemyHealth : MonoBehaviour
         capsuleCollider = GetComponent<CapsuleCollider>();
         enemyMovement = GetComponent<EnemyMovement>();
         enemyAttack = GetComponent<EnemyAttack>();
-        hitParticles = GetComponentInChildren<ParticleSystem>();
-        // Setting the current health when the enemy first spawns.
         currentHealth = startingHealth;
 
     }
@@ -44,7 +40,6 @@ public class EnemyHealth : MonoBehaviour
 
         // Reduce the current health by the amount of damage sustained.
         currentHealth -= amount;
-       // hitParticles.Play();
 
 
         // If the current health is less than or equal to zero...
