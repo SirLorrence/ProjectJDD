@@ -904,6 +904,7 @@ GameObject:
   - component: {fileID: 640990747}
   - component: {fileID: 640990749}
   - component: {fileID: 640990748}
+  - component: {fileID: 640990750}
   m_Layer: 5
   m_Name: Score
   m_TagString: Untagged
@@ -927,8 +928,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -102.3, y: -30.6}
-  m_SizeDelta: {x: 204.5, y: 61.2}
+  m_AnchoredPosition: {x: -154.59, y: -69.48007}
+  m_SizeDelta: {x: 309.08, y: 138.96}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &640990748
 MonoBehaviour:
@@ -957,7 +958,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 5
     m_MaxSize: 50
-    m_Alignment: 0
+    m_Alignment: 2
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -972,6 +973,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 640990746}
   m_CullTransparentMesh: 0
+--- !u!114 &640990750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 640990746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 265def1b57460c341a0066b5e74d4e11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &757552184 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: ee0908afd2b1a2448a01df3345e6bab2,
