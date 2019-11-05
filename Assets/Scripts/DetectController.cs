@@ -18,7 +18,7 @@ public class DetectController : MonoBehaviour
         {
             thePlayer.useController = false;
         }
-        if (Input.GetAxisRaw("RHorizontalPS") != 0.0f || Input.GetAxisRaw("RVerticalPS") != 0.0f)
+        if (Input.GetAxisRaw("RHorizontal") != 0.0f || Input.GetAxisRaw("RVertical") != 0.0f)
         {
             thePlayer.useController = true;
         }

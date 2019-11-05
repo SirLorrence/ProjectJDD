@@ -294,40 +294,8 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-    m_Name: RHorizontalPS
+    m_Name: RHorizontal
     descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: 
-    altNegativeButton: 
-    altPositiveButton: 
-    gravity: 0
-    dead: 0.19
-    sensitivity: 1
-    snap: 0
-    invert: 0
-    type: 2
-    axis: 2
-    joyNum: 0
-  - serializedVersion: 3
-    m_Name: RVerticalPS
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: 
-    altNegativeButton: 
-    altPositiveButton: 
-    gravity: 0
-    dead: 0.19
-    sensitivity: 1
-    snap: 0
-    invert: 0
-    type: 2
-    axis: 5
-    joyNum: 0
-  - serializedVersion: 3
-    m_Name: RHorizontalXB
-    descriptiveName: Xbox Controller
     descriptiveNegativeName: 
     negativeButton: 
     positiveButton: 
@@ -342,8 +310,8 @@ InputManager:
     axis: 3
     joyNum: 0
   - serializedVersion: 3
-    m_Name: RVerticalXB
-    descriptiveName: Xbox Controller
+    m_Name: RVertical
+    descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
     positiveButton: 

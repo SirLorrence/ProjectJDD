@@ -64,13 +64,7 @@ public class PlayerMovement : MonoBehaviour
         {
 
             //xbox right stick
-            Vector3 playerDirection = Vector3.right * Input.GetAxisRaw("RHorizontalXB") + Vector3.forward * -Input.GetAxisRaw("RVerticalXB");
-            if (playerDirection.sqrMagnitude > 0.0f)
-            {
-                transform.rotation = Quaternion.LookRotation(playerDirection, Vector3.up);
-            }
-            //Playstation right stick
-            Vector3 PlayerDirection = Vector3.right * Input.GetAxisRaw("RHorizontalPS") + Vector3.forward * -Input.GetAxisRaw("RVerticalPS");
+            Vector3 PlayerDirection = Vector3.right * Input.GetAxisRaw("RHorizontal") + Vector3.forward * -Input.GetAxisRaw("RVertical");
             if (PlayerDirection.sqrMagnitude> 0.0f)
             {
                 transform.rotation = Quaternion.LookRotation(PlayerDirection, Vector3.up);
