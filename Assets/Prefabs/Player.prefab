@@ -156,21 +156,6 @@ Transform:
   m_Father: {fileID: 7607451378691066515}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &537734915515807852
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7333432717103592159}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 677a37467cf0acd46a47c8b681d00fa6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damagePerShot: 10
-  timeBetweenBullets: 0.15
-  range: 100
 --- !u!1 &900150339354229136
 GameObject:
   m_ObjectHideFlags: 0
@@ -1796,6 +1781,21 @@ Transform:
   m_Father: {fileID: 3339246254137521909}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &537734915515807852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7333432717103592159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 677a37467cf0acd46a47c8b681d00fa6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damagePerShot: 10
+  timeBetweenBullets: 0.15
+  range: 100
 --- !u!1 &7365153196022016374
 GameObject:
   m_ObjectHideFlags: 0
@@ -2196,12 +2196,12 @@ Rigidbody:
   m_GameObject: {fileID: 8383316670172588000}
   serializedVersion: 2
   m_Mass: 1
-  m_Drag: Infinity
-  m_AngularDrag: Infinity
+  m_Drag: 0
+  m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 84
+  m_Constraints: 80
   m_CollisionDetection: 0
 --- !u!136 &537734915500291074
 CapsuleCollider:
