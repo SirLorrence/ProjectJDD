@@ -709,9 +709,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 466cdf1be1e6c0a48869e1bc4f6f974d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHealth: 100
+  startingHealth: 150
   currentHealth: 0
-  scoreValue: 10
+  scoreValue: 25
 --- !u!1 &3201666216350671450
 GameObject:
   m_ObjectHideFlags: 0

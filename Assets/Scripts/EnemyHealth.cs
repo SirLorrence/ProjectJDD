@@ -61,10 +61,11 @@ public class EnemyHealth : MonoBehaviour
         capsuleCollider.isTrigger = true;
 
         // Tell the animator that the enemy is dead.
-        anim.SetTrigger("Dead");
+
         enemyMovement.enabled = false;
         enemyAttack.enabled = false;
-
+        anim.SetTrigger("Dead");
+   
     }
 
 
