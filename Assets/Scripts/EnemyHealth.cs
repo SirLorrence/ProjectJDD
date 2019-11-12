@@ -14,6 +14,7 @@ public class EnemyHealth : MonoBehaviour
     bool isDead;                                // Whether the enemy is dead.
     EnemyMovement enemyMovement;
     EnemyAttack enemyAttack;
+    ParticleSystem hitParticles;
 
 
     void Awake()
@@ -24,6 +25,7 @@ public class EnemyHealth : MonoBehaviour
         enemyMovement = GetComponent<EnemyMovement>();
         enemyAttack = GetComponent<EnemyAttack>();
         currentHealth = startingHealth;
+        hitParticles = GetComponent<ParticleSystem>();
 
     }
 
@@ -40,6 +42,8 @@ public class EnemyHealth : MonoBehaviour
 
         // Reduce the current health by the amount of damage sustained.
         currentHealth -= amount;
+
+        hitParticles.Play();
 
 
         // If the current health is less than or equal to zero...
@@ -61,7 +65,6 @@ public class EnemyHealth : MonoBehaviour
         capsuleCollider.isTrigger = true;
 
         // Tell the animator that the enemy is dead.
-
         enemyMovement.enabled = false;
         enemyAttack.enabled = false;
         anim.SetTrigger("Dead");

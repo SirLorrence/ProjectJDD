@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.AI;
 
 public class EnemyAttack : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class EnemyAttack : MonoBehaviour
     GameObject player;
     PlayerHealth playerHealth;
     EnemyMovement enemymove;
+    NavMeshAgent nav;
 
    
     bool playerInRange;
@@ -21,6 +23,7 @@ public class EnemyAttack : MonoBehaviour
         playerHealth = player.GetComponent<PlayerHealth>();
         anim = GetComponent<Animator>();
         enemymove = GetComponent<EnemyMovement>();
+        nav = GetComponent<NavMeshAgent>();
     }
 
     void OnTriggerEnter(Collider other)
@@ -52,7 +55,8 @@ public class EnemyAttack : MonoBehaviour
         }
         if (playerHealth.health <= 0)
         {
-            enemymove.enabled = false;
+            //enemymove.enabled = false;
+            nav.enabled = false;
             anim.SetTrigger("PlayerDead");
         }
 
@@ -63,7 +67,6 @@ public class EnemyAttack : MonoBehaviour
         if (playerHealth.health > 0)
         {
             playerHealth.DamageTaken(attackDamage);
-
         }
     }
 

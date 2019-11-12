@@ -11,7 +11,10 @@ public class PlayerHealth : MonoBehaviour
     public Image[] hearts;
     public Sprite heart;
     public Sprite noheart;
-    public Image damageImage;                                   // Reference to an image to flash on the screen on being hurt.
+    public Image damageImage;
+    public float flashSpeed = 5f;
+    public Color flashColour = new Color(1f, 0f, 0f, 0.1f);
+    // Reference to an image to flash on the screen on being hurt.
  
 
     Animator anim;
@@ -45,8 +48,15 @@ public class PlayerHealth : MonoBehaviour
                 hearts[i].enabled = false;
             }
         }
-
-
+        if(damaged)
+        {
+            damageImage.color = flashColour;
+        }
+        else
+        {
+            damageImage.color = Color.Lerp(damageImage.color, Color.clear, flashSpeed * Time.deltaTime);
+        }
+        damaged = false;
     }
 
     public void DamageTaken(int damage)
@@ -63,6 +73,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Death()
     {
+
         isDead = true;
         anim.SetTrigger("Die");
         playerMovement.enabled = false;
