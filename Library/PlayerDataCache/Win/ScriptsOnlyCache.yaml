@@ -7,18 +7,23 @@ ScriptsOnlyBuild:
     - EnemyHealth
     - EnemyManager
     - EnemyMovement
+    - MainMenu
+    - PauseMenu
     - PlayerHealth
     - PlayerMovement
     - PlayerShooting
     - ScoreManager
+    - ScrollingUVs_Layers
     Unity.ProBuilder.Editor.dll:
     - UnityEditor.ProBuilder.EditorToolbar
     - UnityEditor.ProBuilder.ProBuilderEditor
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -26,12 +31,13 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scene/Test level.unity:
+    Assets/Scene/LevelArena.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -54,6 +60,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -69,37 +77,43 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9726}
+      Script: {instanceID: 9734}
     - Class: 114
-      Script: {instanceID: 9912}
+      Script: {instanceID: 9928}
     - Class: 114
-      Script: {instanceID: 9950}
+      Script: {instanceID: 9966}
     - Class: 114
-      Script: {instanceID: 10004}
+      Script: {instanceID: 9992}
     - Class: 114
-      Script: {instanceID: 10526}
+      Script: {instanceID: 10020}
     - Class: 114
-      Script: {instanceID: 10730}
+      Script: {instanceID: 10548}
     - Class: 114
-      Script: {instanceID: 10814}
+      Script: {instanceID: 10746}
     - Class: 114
-      Script: {instanceID: 11052}
+      Script: {instanceID: 10830}
     - Class: 114
-      Script: {instanceID: 11510}
+      Script: {instanceID: 11064}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11066}
     - Class: 114
-      Script: {instanceID: 11684}
+      Script: {instanceID: 11520}
     - Class: 114
-      Script: {instanceID: 11700}
+      Script: {instanceID: 11522}
     - Class: 114
-      Script: {instanceID: 11918}
+      Script: {instanceID: 11698}
     - Class: 114
-      Script: {instanceID: 12190}
+      Script: {instanceID: 11714}
     - Class: 114
-      Script: {instanceID: 12194}
+      Script: {instanceID: 11930}
     - Class: 114
-      Script: {instanceID: 12256}
+      Script: {instanceID: 12206}
+    - Class: 114
+      Script: {instanceID: 12210}
+    - Class: 114
+      Script: {instanceID: 12276}
+    - Class: 114
+      Script: {instanceID: 65554}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -118,6 +132,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
     - Class: 222
@@ -129,6 +147,61 @@ ScriptsOnlyBuild:
     - Class: 225
       Script: {instanceID: 0}
     - Class: 238
+      Script: {instanceID: 0}
+    Assets/Scene/Menu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9734}
+    - Class: 114
+      Script: {instanceID: 9966}
+    - Class: 114
+      Script: {instanceID: 10020}
+    - Class: 114
+      Script: {instanceID: 10548}
+    - Class: 114
+      Script: {instanceID: 11064}
+    - Class: 114
+      Script: {instanceID: 11714}
+    - Class: 114
+      Script: {instanceID: 12210}
+    - Class: 114
+      Script: {instanceID: 32898}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -197,6 +270,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: b44ae65e778f5321b84fb92ea67776f9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollingUVs_Layers
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -583,7 +662,7 @@ ScriptsOnlyBuild:
     className: MarkerTrack
   - hash:
       serializedVersion: 2
-      Hash: 0130bf220485caae166529847bff1512
+      Hash: 12ec54c3d2321afbd2bc5668be31244d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerHealth
@@ -695,7 +774,20 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenu
+  - hash:
+      serializedVersion: 2
+      Hash: c8c5e65e9fb858572516474d6e2102bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PauseMenu
   platform: 5
   scenePathNames:
-  - Assets/Scene/Test level.unity
-  playerPath: D:/GitHub/ProjectJDD/Build/AlphaBuildPS4/JustDont.exe
+  - Assets/Scene/Menu.unity
+  - Assets/Scene/LevelArena.unity
+  playerPath: C:/Users/w0435362/Desktop/ProjectJDD/Build/AlphaBuild/JustDont.exe

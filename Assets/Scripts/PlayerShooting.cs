@@ -11,7 +11,7 @@ public class PlayerShooting : MonoBehaviour
     Ray shootRay;
     RaycastHit shootHit;
     int shootableMask;
-
+    PauseMenu pauseMenu;
     // References
 
     LineRenderer gunLine;
@@ -22,6 +22,7 @@ public class PlayerShooting : MonoBehaviour
     {
         gunLine = GetComponent<LineRenderer>();
         shootableMask = LayerMask.GetMask("Shootable");
+        pauseMenu = GetComponent<PauseMenu>();
     }
 
     // Update is called once per frame

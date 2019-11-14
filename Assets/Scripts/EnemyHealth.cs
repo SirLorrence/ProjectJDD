@@ -70,6 +70,4 @@ public class EnemyHealth : MonoBehaviour
         anim.SetTrigger("Dead");
    
     }
-
-
 }
