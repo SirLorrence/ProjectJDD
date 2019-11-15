@@ -15,5 +15,12 @@ public class ScoreManager : MonoBehaviour
     private void Update()
     {
         text.text = "Score: " + score;
+      
+        if (score > PlayerPrefs.GetInt("HighScore", 0))
+        {
+        PlayerPrefs.SetInt("HighScore", score);//works
+        }
+
+
     }
 }
