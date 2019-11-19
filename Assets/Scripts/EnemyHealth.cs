@@ -60,7 +60,7 @@ public class EnemyHealth : MonoBehaviour
         // The enemy is dead.
         isDead = true;
         ScoreManager.score += scoreValue;
-        Destroy(gameObject, 4f);
+        Destroy(gameObject, 2.5f);
         // Turn the collider into a trigger so shots can pass through it.
         capsuleCollider.isTrigger = true;
 
