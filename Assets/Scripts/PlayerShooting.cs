@@ -29,7 +29,7 @@ public class PlayerShooting : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        if (Input.GetButton("Fire1") && timer >= timeBetweenBullets)
+        if (Input.GetButton("Fire1")  && timer >= timeBetweenBullets)
         {
             shoot();
         }
@@ -38,6 +38,7 @@ public class PlayerShooting : MonoBehaviour
             // ... disable the effects.
             DisableEffects();
         }
+
     }
     public void DisableEffects()
     {

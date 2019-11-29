@@ -853,4 +853,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scene/Menu.unity
   - Assets/Scene/LevelArena.unity
-  playerPath: C:/Users/w0435362/Desktop/ProjectJDD/Build/AlphaBuild/OverCast.exe
+  playerPath: D:/GitHub/ProjectJDD/Build/AlphaBuild/OverCast.exe

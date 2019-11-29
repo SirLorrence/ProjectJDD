@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class EnemyHealth : MonoBehaviour
 {
@@ -15,6 +16,7 @@ public class EnemyHealth : MonoBehaviour
     EnemyMovement enemyMovement;
     EnemyAttack enemyAttack;
     ParticleSystem hitParticles;
+    NavMeshAgent nav;
 
 
     void Awake()
@@ -26,6 +28,8 @@ public class EnemyHealth : MonoBehaviour
         enemyAttack = GetComponent<EnemyAttack>();
         currentHealth = startingHealth;
         hitParticles = GetComponent<ParticleSystem>();
+        nav = GetComponent<NavMeshAgent>();
+        
 
     }
 
