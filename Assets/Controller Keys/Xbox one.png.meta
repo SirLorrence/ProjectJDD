@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: be0cba4229f5f88419b6547884266a48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6698116234343737858
+    second: Xbox one_0
+  - first:
+      213: 2988472073443769293
+    second: Xbox one_1
+  - first:
+      213: 2488039505547671905
+    second: Xbox one_2
+  - first:
+      213: -6733413099113976455
+    second: Xbox one_3
+  - first:
+      213: -2524434595605888282
+    second: Xbox one_4
+  - first:
+      213: 1235284809826364737
+    second: Xbox one_5
+  - first:
+      213: -7026323311942503503
+    second: Xbox one_6
+  - first:
+      213: 2690439382835219008
+    second: Xbox one_7
+  - first:
+      213: 6018048217997130118
+    second: Xbox one_8
+  - first:
+      213: 3311483890956137878
+    second: Xbox one_9
+  - first:
+      213: -4283130690671275542
+    second: Xbox one_10
+  - first:
+      213: -2616469650063794742
+    second: Xbox one_11
+  - first:
+      213: 7011939129147139061
+    second: Xbox one_12
+  - first:
+      213: -3521517942495695250
+    second: Xbox one_13
+  - first:
+      213: 1187169076804086249
+    second: Xbox one_14
+  - first:
+      213: -4437714188319120214
+    second: Xbox one_15
+  - first:
+      213: -8361023700501374992
+    second: Xbox one_16
+  - first:
+      213: 5863522269741861863
+    second: Xbox one_17
+  - first:
+      213: -5694726539996716893
+    second: Xbox one_18
+  - first:
+      213: -1489860662663014415
+    second: Xbox one_19
+  - first:
+      213: 1653977150026773365
+    second: Xbox one_20
+  - first:
+      213: 5264232807419581119
+    second: Xbox one_21
+  - first:
+      213: 5858961009156471137
+    second: Xbox one_22
+  - first:
+      213: 939249411259622362
+    second: Xbox one_23
+  - first:
+      213: 7051174171621331721
+    second: Xbox one_24
+  - first:
+      213: 8146954469258493033
+    second: Xbox one_25
+  - first:
+      213: -4134805715771776302
+    second: Xbox one_26
+  - first:
+      213: 3721048732796721922
+    second: Xbox one_27
+  - first:
+      213: 2275571476639183435
+    second: Xbox one_28
+  - first:
+      213: 5686909066652784267
+    second: Xbox one_29
+  - first:
+      213: -4172828572795986600
+    second: Xbox one_30
+  - first:
+      213: 4992115167599463653
+    second: Xbox one_31
+  - first:
+      213: 8197078412562809493
+    second: Xbox one_32
+  - first:
+      213: -8881450323497163026
+    second: Xbox one_33
+  - first:
+      213: -7577373065031184178
+    second: Xbox one_34
+  - first:
+      213: -4400025354545235831
+    second: Xbox one_35
+  - first:
+      213: -5298211309405527701
+    second: Xbox one_36
+  - first:
+      213: 5348106047038560680
+    second: Xbox one_37
+  - first:
+      213: 3611107826900703957
+    second: Xbox one_38
+  - first:
+      213: -2708427666902555427
+    second: Xbox one_39
+  - first:
+      213: 4787197520524609287
+    second: Xbox one_40
+  - first:
+      213: -8207984443638468910
+    second: Xbox one_41
+  - first:
+      213: 2122017030381477305
+    second: Xbox one_42
+  - first:
+      213: -8606477179445957493
+    second: Xbox one_43
+  - first:
+      213: -6976255561158432458
+    second: Xbox one_44
+  - first:
+      213: -5284354129992725287
+    second: Xbox one_45
+  - first:
+      213: -1371554459824378035
+    second: Xbox one_46
+  - first:
+      213: -4385659651138200480
+    second: Xbox one_47
+  - first:
+      213: -3504614306777290900
+    second: Xbox one_48
+  - first:
+      213: -3800283438990151637
+    second: Xbox one_49
+  - first:
+      213: -7289770400889820048
+    second: Xbox one_50
+  - first:
+      213: 3673679732134299965
+    second: Xbox one_51
+  - first:
+      213: -4822232870464269280
+    second: Xbox one_52
+  - first:
+      213: 8781825306271452762
+    second: Xbox one_53
+  - first:
+      213: 1763253197502339446
+    second: Xbox one_54
+  - first:
+      213: 2697280051413995283
+    second: Xbox one_55
+  - first:
+      213: -9008166092631273274
+    second: Xbox one_56
+  - first:
+      213: 2000593128317003742
+    second: Xbox one_57
+  - first:
+      213: -4469256394989114388
+    second: Xbox one_58
+  - first:
+      213: 175443987949104453
+    second: Xbox one_59
+  - first:
+      213: 1042229271550344638
+    second: Xbox one_60
+  - first:
+      213: 3366677661145446915
+    second: Xbox one_61
+  - first:
+      213: 5162578558038958195
+    second: Xbox one_62
+  - first:
+      213: 5274807800343845792
+    second: Xbox one_63
+  - first:
+      213: -901846055550234653
+    second: Xbox one_64
+  - first:
+      213: 8751157781157642735
+    second: Xbox one_65
+  - first:
+      213: -7687963447603583945
+    second: Xbox one_66
+  - first:
+      213: 3984630523828227430
+    second: Xbox one_67
+  - first:
+      213: -7633450533672441679
+    second: Xbox one_68
+  - first:
+      213: 8379169071762559838
+    second: Xbox one_69
+  - first:
+      213: -4826859077081501490
+    second: Xbox one_70
+  - first:
+      213: -5569650713026765362
+    second: Xbox one_71
+  - first:
+      213: -1290041555287026882
+    second: Xbox one_72
+  - first:
+      213: 2736668095056982204
+    second: Xbox one_73
+  - first:
+      213: 7990957791817382557
+    second: Xbox one_74
+  - first:
+      213: 7719986916963235646
+    second: Xbox one_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xbox one_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce03d19c0fe848048968af168779fb4f
+      internalID: -6698116234343737858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782214a691ee00409a15dcfe885f1b9
+      internalID: 2988472073443769293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a9ea0e0190f041a229aab283fc3ad
+      internalID: 2488039505547671905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a8318f478da548b9d1bdc4de7949d
+      internalID: -6733413099113976455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd0ef9b43e7384f8c1c05751386af2
+      internalID: -2524434595605888282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03093f69676ffa546a96c830dc0c1c0c
+      internalID: 1235284809826364737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dee86fa58235f4f9afb60f4740b6e9
+      internalID: -7026323311942503503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8526bb9c321e924895303d6ca03d194
+      internalID: 2690439382835219008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc260ccd56ddd804489e7b02de56e7fe
+      internalID: 6018048217997130118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd14e1ec10f616441a57a18d64f6f7ad
+      internalID: 3311483890956137878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72932e83271c354a9046f4eb8529a0f
+      internalID: -4283130690671275542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a69511bb9a8241aa10420a2a65c23
+      internalID: -2616469650063794742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 275
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c7c67df4774c4cbdf12cfb47da058
+      internalID: 7011939129147139061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 275
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc5202d8ff44646af3a312448e8f6f
+      internalID: -3521517942495695250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 275
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6167c6f34de6344b2740dece466036
+      internalID: 1187169076804086249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ed9bcbe0322545b2b3bd611c5b0d5
+      internalID: -4437714188319120214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e99c3fe8893919468b83daf010588aa
+      internalID: -8361023700501374992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 257
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be56a0aa96e9d84b9c8c7a12f5ad5ce
+      internalID: 5863522269741861863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70fa2cd59a5a249a8805c298b93f4a
+      internalID: -5694726539996716893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68262fdb1d043f642ac25694fa16cdf8
+      internalID: -1489860662663014415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec8ecd1732f51489b234fb6a66b12a
+      internalID: 1653977150026773365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07d375498489b4ba3e18c60fd5e812
+      internalID: 5264232807419581119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf2c9523970034aaddd479ccc88edb
+      internalID: 5858961009156471137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3017aabb15bf1944abff8bbeeb74e9e
+      internalID: 939249411259622362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b32103cb0113c4eae7b05cf13c2117
+      internalID: 7051174171621331721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf4495f5c1ba24c9f1f747edb1d9e4
+      internalID: 8146954469258493033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e616054ad2ccf148ada14865c66c813
+      internalID: -4134805715771776302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 208
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858cb66ecb0bcba4fadcd2aa195c45db
+      internalID: 3721048732796721922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 208
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0314e4c5867b55643bd69cc4cf6c3ce6
+      internalID: 2275571476639183435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 208
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac4a5f44fc2594a9e1058ddafd4beb
+      internalID: 5686909066652784267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 208
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d1de1c937f7b49bc6efe6af8a5264
+      internalID: -4172828572795986600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334346eccc31094fac988af80a707a8
+      internalID: 4992115167599463653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 208
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25674212c69db643ac119d49d6c7548
+      internalID: 8197078412562809493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7fbeeeb519d52488a02ecd389676b1
+      internalID: -8881450323497163026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d866faf4d1c8be449e168b4edaaa3e8
+      internalID: -7577373065031184178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1628fbc55eec57940bd22518b59f6662
+      internalID: -4400025354545235831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 208
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21b2e5f0bfa4b41961ebe7de4722cc
+      internalID: -5298211309405527701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7ba54ff114d84595537ef4b5a70c5
+      internalID: 5348106047038560680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af06e299ffd8664492e9edf99cabc46
+      internalID: 3611107826900703957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63434855fbd56874c932d8b6a33583b0
+      internalID: -2708427666902555427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b252b6e09a29004a91e4f140c7d2b4e
+      internalID: 4787197520524609287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbde52caa4432a4f9af7deb2a26f3df
+      internalID: -8207984443638468910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 193
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e85a1ec24407d4cbc44e1408e093a3
+      internalID: 2122017030381477305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96479519a81c2f44a83e361c390f5178
+      internalID: -8606477179445957493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_44
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd38e57016dcf4d910eec9cc0be3f1
+      internalID: -6976255561158432458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0286f7abf9559f045891238aa9e09c87
+      internalID: -5284354129992725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452d09eeb7e49341b64ff889ff63634
+      internalID: -1371554459824378035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d523948ab478644cabd9157c895bbd2
+      internalID: -4385659651138200480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b7e47fb4e5e84681eba672aea3181
+      internalID: -3504614306777290900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 162
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44755ce8a6216b44eafa120de6a15a0b
+      internalID: -3800283438990151637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 162
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a447dd153a5e9f44ea7d138ae254fa02
+      internalID: -7289770400889820048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 162
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00dc5b8a097ab34a8f7d182efb5ae4c
+      internalID: 3673679732134299965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 146
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21338b5c7daaaf047a38c99a1f050d74
+      internalID: -4822232870464269280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 146
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b0c4a95b00b94697da9ff57b4fac3
+      internalID: 8781825306271452762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f261cc1a8dbe4298ed9aa0d43ea33
+      internalID: 1763253197502339446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f482932ab8bec44a0c62e247868577
+      internalID: 2697280051413995283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c396f30586b579b45ba350368f0efa05
+      internalID: -9008166092631273274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470bd8da656130649abe39915c1f375e
+      internalID: 2000593128317003742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65225f73964512a4ab2c1836e2d62089
+      internalID: -4469256394989114388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bee2b342570e6f4fbbbe98e06199880
+      internalID: 175443987949104453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_60
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e51ea91fadd34e9d8b177db835bb3
+      internalID: 1042229271550344638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_61
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467d1b5189a6e554c85d60167f8e0da3
+      internalID: 3366677661145446915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d5eb42b6ee7e4888f8a78288315c3
+      internalID: 5162578558038958195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11bbb2559847024eb9cb4e67d216a48
+      internalID: 5274807800343845792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bc15a44c6f104ca33995b850790c6
+      internalID: -901846055550234653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0430531702919a644af1994544c60cc7
+      internalID: 8751157781157642735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a54d3db87d7c4388cec310d071e05
+      internalID: -7687963447603583945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41ce78183695774aa74b56771395235
+      internalID: 3984630523828227430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d08a483cb881f4db524f69c2c1f6cd
+      internalID: -7633450533672441679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e6adbafd43de4eb3fa9816675b044
+      internalID: 8379169071762559838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6d9fce92689c42aed92ae54cc496c
+      internalID: -4826859077081501490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a41f91febd5f04fa2ff85d9f604dd1
+      internalID: -5569650713026765362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145db3934cb4a9f4d9b08ddd927117de
+      internalID: -1290041555287026882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9d71b453910c4ea67e77d7a32b583
+      internalID: 2736668095056982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1e2996135273f4cb97d4b763ab1d91
+      internalID: 7990957791817382557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox one_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9d2954865c404fa5a073db301c25a
+      internalID: 7719986916963235646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d446bb2bae4c46a48b209ef711814c54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
